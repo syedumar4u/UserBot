@@ -25,13 +25,13 @@
 
 A modular telegram Python UserBot running on python3 with an sqlalchemy database.
 
-Started up as a simple bot, which helps with deleting messages and other stuffs when I didn't possess a smartphone(selecting each message indeed difficult) with a ton of meme features kanged from [SkittBot](https://github.com/skittles9823/SkittBot), it has evolved, becoming extremely modular and simple to use.
+Started up as a simple bot, which helps with deleting messages and other stuffs when I didn't possess a smartphone(selecting each message indeed difficult) with a ton of meme features kanged from [CrazyCaptain](https://t.me/captaincrazy), it has evolved, becoming extremely modular and simple to use.
 
 
 If you just want to stay in the loop about new features or
-announcements you can join the [news channel](https://t.me/maestro_userbot_channel).
+announcements you can join the [news channel](https://t.me/CrazyCaptain_userbot).
 
-If you find any bugs or have any suggestions then don't hesitate to contact me in [my support group](https://t.me/userbot_support).
+If you find any bugs or have any suggestions then don't hesitate to contact me in [my support group](https://t.me/CrazyCaptain_userbot).
 
 Please head to the wiki on instructions to setting it up!
 
@@ -39,6 +39,7 @@ Please head to the wiki on instructions to setting it up!
 
 I would like to thank people who assisted me throughout this project:
 
+* [@Crazycaptain](https://t.me/CaptainCrazy)
 * [@YouTwitFace](https://github.com/YouTwitFace)
 * [@TheDevXen](https://github.com/TheDevXen)
 * [@Skittles9823](https://github.com/Skittles9823)
@@ -50,4 +51,4 @@ I would like to thank people who assisted me throughout this project:
 
 and many more people who aren't mentioned here.
 
-Found Bugs? Create an issue on the issue tracker, or post it in the [support group](https://t.me/userbot_support).
+Found Bugs? Create an issue on the issue tracker, or post it in the [support group](https://t.me/CrazyCaptain_userbot).
